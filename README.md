@@ -1,39 +1,8 @@
-# UI Bootcamps - Node.Js
-
-## Welcome to the bootcamp, learning time has begun
-
-Please, use this repository as a base for all your work. The idea is to
-fork this project so everyone uses the same folder structure for the
-exercises.
-
 ### Index
 
 1. [Objective](#objective)
 
-2. [Who Should Attend](#who-should-attend)
 
-3. [Duration](#duration)
-
-4. [Technical Assistance](#technical-assistance)
-
-5. [Performance Measurement](#performance-measurement)
-
-6. [Handling advanced Developers](#handling-advanced-developers)
-
-7. [Materials](#materials)
-
-8. [Bootcamp Schedule](#bootcamp-schedule)
-
-9. [General Guidelines](#general-guidelines)
-
-10. [Learning Days](#learning-days)
-
-  - 10.1 [Week 1: Knowing your Node](#week-1-knowing-your-node)
-  - 10.2 [Week 2: Js and Node: Brothers in arms](#week-2-js-and-node-brothers-in-arms)
-  - 10.3 [Week 3: From REST to TEST](#week-3-from-rest-to-test)
-  - 10.4 [Week 4: Store and Deploy](#week-4-store-and-deploy)
-
-11. [Final Project](#final-project)
 
 ### Objective
 
