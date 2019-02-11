@@ -1,28 +1,6 @@
 # UI Bootcamps - Node.Js
 
-![Globant](assets/globant.jpg)
-
-## __IMPORTANT DISCLAIMER__
-This is not your typical _crash course_, this is a **Bootcamp**.
-
-What does that mean?
-
-- _You will give your best_
-
-- _We will give our best_
-
-- _We will all have a good time_
-
-
-But most important, there will be **A LOT** of humor, because a happy developer _(student, pupil, padawan, you get the point...)_ is a great and hard working developer.
-
-
-_That said..._
-
-
 ## Welcome to the bootcamp, learning time has begun
-
-![Workout](assets/workout.gif)
 
 Please, use this repository as a base for all your work. The idea is to
 fork this project so everyone uses the same folder structure for the
